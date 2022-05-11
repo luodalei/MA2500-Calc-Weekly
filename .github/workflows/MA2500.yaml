@@ -2,7 +2,7 @@ name: MA2500
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '55 22 * * *'
   workflow_dispatch:
   
 jobs:
